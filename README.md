@@ -145,9 +145,9 @@ I'm an **Electrical & Computer Systems Engineering** student at Monash Universit
 |:---|:---|
 | **Architecture** | 8 modular RTL components: 32×32 register file, combinational decoder, ALU, configurable shifter, 8-state multicycle FSM |
 | **Instruction Set** | All 40 RV32I base instructions implemented and independently verified |
-| **Verification** | UVM environment with constrained-random stimulus, self-checking scoreboards → **100% functional coverage, 100% pass rate** |
-| **Synthesis** | DE10-Lite FPGA @ 50 MHz · **< 3% logic utilisation** · 16 KB on-chip data memory |
-| **Stack** | Verilog · SystemVerilog · UVM · Quartus Prime · ModelSim |
+| **Verification** | Automated verification framework comprising 203 unit and ISA compliance tests → **100% functional coverage, 100% pass rate** |
+| **Synthesis** | DE10-Lite FPGA @ 117 MHz · ** 71% logic elements utilization** |
+| **Stack** | Verilog · Verification · Quartus Prime · Icarus  · GTKWave|
 
 <p>
   <a href="https://github.com/Niccc8/rv32i-riscv-cpu">
