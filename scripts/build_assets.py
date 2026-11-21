@@ -41,8 +41,6 @@ ASSETS = ROOT / "assets"
 TYPING_LINES = [
     "Nicholas Choong",
     "RTL Design | Computer Architecture | RISC-V",
-    "RTL -> Verify -> FPGA -> GDSII",
-    "Champion, ChampionCHIP Malaysia 2026",
 ]
 
 SILICON_CARD = {

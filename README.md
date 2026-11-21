@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-  <img src="assets/typing-light.svg" width="800" alt="Nicholas Choong | RTL Design | Computer Architecture | RISC-V | RTL → Verify → FPGA → GDSII | Champion, ChampionCHIP Malaysia 2026">
+  <img src="assets/typing-light.svg" width="800" alt="Nicholas Choong | RTL Design | Computer Architecture | RISC-V">
 </picture>
 
 <br/>
